@@ -5,7 +5,7 @@ class Dog
   
   def name
     
-   return  name
+   return name
     
   end
   
